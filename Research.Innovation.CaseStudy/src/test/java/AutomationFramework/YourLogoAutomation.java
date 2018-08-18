@@ -21,7 +21,7 @@ public class YourLogoAutomation {
 	
 	public static WebDriver driver= null;
 	Properties prop;
-	// this is a new commit to dev branch
+	// this is a new commit to dev branch only
 	@BeforeTest
 	public void StartUp()throws Exception{
 		
