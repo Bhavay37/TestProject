@@ -1,0 +1,7 @@
+<suite name="Test Suite">
+<test name="Test QA">
+<classes>
+<class name="AutomationFramework.YourLogoAutomation"/>
+</classes>
+</test>
+</suite>

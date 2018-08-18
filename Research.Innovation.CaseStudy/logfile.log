@@ -1,0 +1,189 @@
+2018-08-10 17:55:23,133 INFO  [Class] ****************************************** 
+2018-08-10 17:55:32,688 INFO  [Class] ****************************************** 
+2018-08-10 17:55:42,826 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-10 17:57:29,241 INFO  [Class] ****************************************** 
+2018-08-10 17:57:36,807 INFO  [Class] ****************************************** 
+2018-08-10 18:10:57,371 INFO  [Class] ****************************************** 
+2018-08-10 18:10:57,441 INFO  [Class] ****************************************** 
+2018-08-10 18:10:57,441 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-10 18:10:57,441 INFO  [Class] ****************************************** 
+2018-08-10 18:10:57,459 INFO  [Class] ****************************************** 
+2018-08-10 18:12:36,356 INFO  [Class] ****************************************** 
+2018-08-10 18:12:36,372 INFO  [Class] ****************************************** 
+2018-08-10 18:12:36,372 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-10 18:12:36,372 INFO  [Class] ****************************************** 
+2018-08-10 18:12:36,372 INFO  [Class] ****************************************** 
+2018-08-10 18:13:23,232 INFO  [Class] New driver instantiated. 
+2018-08-10 18:14:09,103 INFO  [Class] Web app is launched. 
+2018-08-10 18:14:09,854 INFO  [Class] My Account Link Element found. 
+2018-08-10 18:14:15,411 INFO  [Class] Click action performed on My Account link. 
+2018-08-10 18:14:15,682 INFO  [Class] User name text box found. 
+2018-08-10 18:14:17,574 INFO  [Class] UserName entered in username textbox. 
+2018-08-10 18:16:53,731 INFO  [Class] ****************************************** 
+2018-08-10 18:16:53,734 INFO  [Class] ****************************************** 
+2018-08-10 18:16:53,734 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-10 18:16:53,734 INFO  [Class] ****************************************** 
+2018-08-10 18:16:53,734 INFO  [Class] ****************************************** 
+2018-08-10 18:17:49,067 INFO  [Class] New driver instantiated. 
+2018-08-10 18:18:24,214 INFO  [Class] Web app is launched. 
+2018-08-10 18:18:24,779 INFO  [Class] My Account Link Element found. 
+2018-08-10 18:18:31,535 INFO  [Class] Click action performed on My Account link. 
+2018-08-10 18:18:31,921 INFO  [Class] User name text box found. 
+2018-08-10 18:18:33,743 INFO  [Class] UserName entered in username textbox. 
+2018-08-10 18:18:34,032 INFO  [Class] User name text box found. 
+2018-08-10 18:18:35,142 INFO  [Class] Password entered in password textbox. 
+2018-08-10 18:19:34,852 INFO  [Class] ****************************************** 
+2018-08-10 18:19:34,852 INFO  [Class] ****************************************** 
+2018-08-10 18:19:34,867 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-10 18:19:34,867 INFO  [Class] ****************************************** 
+2018-08-10 18:19:34,867 INFO  [Class] ****************************************** 
+2018-08-10 18:19:53,650 INFO  [Class] New driver instantiated. 
+2018-08-10 18:20:05,229 INFO  [Class] Web app is launched. 
+2018-08-10 18:20:05,479 INFO  [Class] My Account Link Element found. 
+2018-08-10 18:20:10,988 INFO  [Class] Click action performed on My Account link. 
+2018-08-10 18:20:11,192 INFO  [Class] User name text box found. 
+2018-08-10 18:20:12,041 INFO  [Class] UserName entered in username textbox. 
+2018-08-10 18:20:12,178 INFO  [Class] User name text box found. 
+2018-08-10 18:20:12,886 INFO  [Class] Password entered in password textbox. 
+2018-08-10 18:20:13,024 INFO  [Class] Submit button found. 
+2018-08-10 18:20:13,548 INFO  [Class] Click action performed on submit button 
+2018-08-11 15:06:08,209 INFO  [Class] ****************************************** 
+2018-08-11 15:06:08,237 INFO  [Class] ****************************************** 
+2018-08-11 15:06:08,237 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 15:06:08,237 INFO  [Class] ****************************************** 
+2018-08-11 15:06:08,237 INFO  [Class] ****************************************** 
+2018-08-11 15:06:49,102 INFO  [Class] New driver instantiated. 
+2018-08-11 15:07:38,336 INFO  [Class] Web app is launched. 
+2018-08-11 15:07:39,620 INFO  [Class] My Account Link Element found. 
+2018-08-11 15:07:49,840 INFO  [Class] Click action performed on My Account link. 
+2018-08-11 15:07:50,280 INFO  [Class] User name text box found. 
+2018-08-11 15:07:55,420 INFO  [Class] UserName entered in username textbox. 
+2018-08-11 15:07:56,808 INFO  [Class] User name text box found. 
+2018-08-11 15:07:59,016 INFO  [Class] Password entered in password textbox. 
+2018-08-11 15:07:59,356 INFO  [Class] Submit button found. 
+2018-08-11 15:08:00,320 INFO  [Class] Click action performed on submit button 
+2018-08-11 16:09:03,783 INFO  [Class] ****************************************** 
+2018-08-11 16:09:03,783 INFO  [Class] ****************************************** 
+2018-08-11 16:09:03,783 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 16:09:03,783 INFO  [Class] ****************************************** 
+2018-08-11 16:09:03,783 INFO  [Class] ****************************************** 
+2018-08-11 16:09:14,354 INFO  [Class] New driver instantiated. 
+2018-08-11 16:09:23,850 INFO  [Class] Web app is launched. 
+2018-08-11 16:09:23,941 INFO  [Class] My Account Link Element found. 
+2018-08-11 16:09:28,828 INFO  [Class] Click action performed on My Account link. 
+2018-08-11 16:09:28,972 INFO  [Class] User name text box found. 
+2018-08-11 16:09:29,756 INFO  [Class] UserName entered in username textbox. 
+2018-08-11 16:09:29,912 INFO  [Class] User name text box found. 
+2018-08-11 16:09:30,424 INFO  [Class] Password entered in password textbox. 
+2018-08-11 16:09:30,568 INFO  [Class] Submit button found. 
+2018-08-11 16:09:33,900 INFO  [Class] Click action performed on submit button 
+2018-08-11 16:51:39,889 INFO  [Class] ****************************************** 
+2018-08-11 16:51:39,889 INFO  [Class] ****************************************** 
+2018-08-11 16:51:39,889 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 16:51:39,889 INFO  [Class] ****************************************** 
+2018-08-11 16:51:39,889 INFO  [Class] ****************************************** 
+2018-08-11 16:51:48,177 INFO  [Class] New driver instantiated. 
+2018-08-11 16:51:57,541 INFO  [Class] Web app is launched. 
+2018-08-11 16:51:57,623 INFO  [Class] My Account Link Element found. 
+2018-08-11 16:52:01,844 INFO  [Class] Click action performed on My Account link. 
+2018-08-11 16:52:01,947 INFO  [Class] User name text box found. 
+2018-08-11 16:52:02,470 INFO  [Class] UserName entered in username textbox. 
+2018-08-11 16:52:02,520 INFO  [Class] User name text box found. 
+2018-08-11 16:52:02,599 INFO  [Class] User name text box found. 
+2018-08-11 16:52:02,841 INFO  [Class] Password entered in password textbox. 
+2018-08-11 16:52:02,879 INFO  [Class] Submit button found. 
+2018-08-11 16:52:03,012 INFO  [Class] Click action performed on submit button 
+2018-08-11 20:55:25,499 INFO  [Class] ****************************************** 
+2018-08-11 20:55:26,943 INFO  [Class] ****************************************** 
+2018-08-11 20:55:28,075 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 20:55:28,359 INFO  [Class] ****************************************** 
+2018-08-11 20:55:28,687 INFO  [Class] ****************************************** 
+2018-08-11 20:56:04,135 INFO  [Class] New driver instantiated. 
+2018-08-11 20:56:20,504 INFO  [Class] Web app is launched. 
+2018-08-11 20:56:54,654 INFO  [Class] My Account Link Element found. 
+2018-08-11 20:57:08,867 INFO  [Class] Click action performed on My Account link. 
+2018-08-11 20:57:13,684 INFO  [Class] User name text box found. 
+2018-08-11 20:57:17,884 INFO  [Class] UserName entered in username textbox. 
+2018-08-11 20:57:28,137 INFO  [Class] User name text box found. 
+2018-08-11 20:57:35,821 INFO  [Class] User name text box found. 
+2018-08-11 20:57:39,921 INFO  [Class] Password entered in password textbox. 
+2018-08-11 20:57:41,305 INFO  [Class] Submit button found. 
+2018-08-11 20:57:48,226 INFO  [Class] Click action performed on submit button 
+2018-08-11 21:01:28,772 INFO  [Class] ****************************************** 
+2018-08-11 21:01:28,788 INFO  [Class] ****************************************** 
+2018-08-11 21:01:28,792 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 21:01:28,792 INFO  [Class] ****************************************** 
+2018-08-11 21:01:28,792 INFO  [Class] ****************************************** 
+2018-08-11 21:01:42,010 INFO  [Class] New driver instantiated. 
+2018-08-11 21:01:51,651 INFO  [Class] Web app is launched. 
+2018-08-11 21:01:55,887 INFO  [Class] My Account Link Element found. 
+2018-08-11 21:01:59,955 INFO  [Class] Click action performed on My Account link. 
+2018-08-11 21:02:00,075 INFO  [Class] User name text box found. 
+2018-08-11 21:02:00,463 INFO  [Class] UserName entered in username textbox. 
+2018-08-11 21:02:00,519 INFO  [Class] User name text box found. 
+2018-08-11 21:02:00,615 INFO  [Class] User name text box found. 
+2018-08-11 21:02:00,923 INFO  [Class] Password entered in password textbox. 
+2018-08-11 21:02:00,987 INFO  [Class] Submit button found. 
+2018-08-11 21:02:01,399 INFO  [Class] Click action performed on submit button 
+2018-08-11 23:43:52,972 INFO  [Class] ****************************************** 
+2018-08-11 23:43:52,978 INFO  [Class] ****************************************** 
+2018-08-11 23:43:52,978 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 23:43:52,978 INFO  [Class] ****************************************** 
+2018-08-11 23:43:52,979 INFO  [Class] ****************************************** 
+2018-08-11 23:44:10,042 INFO  [Class] New driver instantiated. 
+2018-08-11 23:44:19,347 INFO  [Class] Web app is launched. 
+2018-08-11 23:55:55,383 INFO  [Class] ****************************************** 
+2018-08-11 23:55:55,385 INFO  [Class] ****************************************** 
+2018-08-11 23:55:55,385 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 23:55:55,385 INFO  [Class] ****************************************** 
+2018-08-11 23:55:55,386 INFO  [Class] ****************************************** 
+2018-08-11 23:56:09,894 INFO  [Class] New driver instantiated. 
+2018-08-11 23:56:24,344 INFO  [Class] Web app is launched. 
+2018-08-11 23:59:05,907 INFO  [Class] ****************************************** 
+2018-08-11 23:59:05,915 INFO  [Class] ****************************************** 
+2018-08-11 23:59:05,915 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-11 23:59:05,915 INFO  [Class] ****************************************** 
+2018-08-11 23:59:05,915 INFO  [Class] ****************************************** 
+2018-08-11 23:59:16,825 INFO  [Class] New driver instantiated. 
+2018-08-11 23:59:25,211 INFO  [Class] Web app is launched. 
+2018-08-11 23:59:25,317 INFO  [Class] SignIn Element found. 
+2018-08-11 23:59:28,322 INFO  [Class] Click action performed on My Account link. 
+2018-08-12 00:03:57,259 INFO  [Class] ****************************************** 
+2018-08-12 00:03:57,264 INFO  [Class] ****************************************** 
+2018-08-12 00:03:57,264 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-12 00:03:57,264 INFO  [Class] ****************************************** 
+2018-08-12 00:03:57,264 INFO  [Class] ****************************************** 
+2018-08-12 00:04:09,511 INFO  [Class] New driver instantiated. 
+2018-08-12 00:04:17,788 INFO  [Class] Web app is launched. 
+2018-08-12 00:04:17,887 INFO  [Class] SignIn Element found. 
+2018-08-12 00:04:20,095 INFO  [Class] Click action performed on My Account link. 
+2018-08-12 00:04:20,322 INFO  [Class] User name text box found. 
+2018-08-12 00:04:21,310 INFO  [Class] UserName entered in username textbox. 
+2018-08-12 00:04:21,410 INFO  [Class] Password text box found. 
+2018-08-12 00:04:21,541 INFO  [Class] Password text box found. 
+2018-08-12 00:04:22,280 INFO  [Class] Password entered in password textbox. 
+2018-08-12 00:04:22,354 INFO  [Class] Submit button found. 
+2018-08-12 00:04:24,804 INFO  [Class] Click action performed on submit button 
+2018-08-12 00:04:24,927 INFO  [Class] SignOut Element found. 
+2018-08-12 00:04:25,119 INFO  [Class] SignOut Element found. 
+2018-08-12 00:04:27,466 INFO  [Class] Click action perfomed on logout button. 
+2018-08-12 00:04:28,860 INFO  [Class] Browser closed. 
+2018-08-12 00:04:28,860 INFO  [Class] XXXXXXX     -E--N--D-        XXXXXXX 
+2018-08-12 00:04:28,860 INFO  [Class] X 
+2018-08-12 00:04:28,860 INFO  [Class] X 
+2018-08-12 00:04:28,860 INFO  [Class] X 
+2018-08-12 00:04:28,860 INFO  [Class] X 
+2018-08-19 03:32:19,961 INFO  [Class] ****************************************** 
+2018-08-19 03:32:19,963 INFO  [Class] ****************************************** 
+2018-08-19 03:32:19,963 INFO  [Class] $$$$$$$     Selenium Test      $$$$$$$ 
+2018-08-19 03:32:19,963 INFO  [Class] ****************************************** 
+2018-08-19 03:32:19,963 INFO  [Class] ****************************************** 
+2018-08-19 03:32:30,297 INFO  [Class] New driver instantiated. 
+2018-08-19 03:32:42,018 INFO  [Class] Web app is launched. 
+2018-08-19 03:32:42,167 INFO  [Class] SignIn Element found. 
+2018-08-19 03:32:44,981 INFO  [Class] Click action performed on My Account link. 
+2018-08-19 03:32:45,150 INFO  [Class] User name text box found. 
+2018-08-19 03:32:46,063 INFO  [Class] UserName entered in username textbox. 
+2018-08-19 03:32:46,151 INFO  [Class] Password text box found. 
+2018-08-19 03:32:46,286 INFO  [Class] Password text box found. 
+2018-08-19 03:32:46,865 INFO  [Class] Password entered in password textbox. 
