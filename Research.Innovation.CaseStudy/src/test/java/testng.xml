@@ -1,7 +1,9 @@
-<suite name="Test Suite">
-<test name="Test QA">
-<classes>
-<class name="AutomationFramework.YourLogoAutomation"/>
-</classes>
-</test>
-</suite>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="AutomationFramework.YourLogoAutomation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
